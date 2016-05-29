@@ -5,7 +5,7 @@ int main()
 {
 	int a;
 	setlocale(0,"");
-	cout << "¬ведите число: ";
+	cout << "¬ведите числo ";
 	cin >> a;
 	int b = 1;
 	while (a > 0)
